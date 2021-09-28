@@ -1,0 +1,12 @@
+C:\proyectosC#\GestionAgricola\GestionFinca.App\GestionFinca.App.Persistencia\obj\Debug\netstandard2.1\GestionFinca.App.Persistencia.csprojAssemblyReference.cache
+C:\proyectosC#\GestionAgricola\GestionFinca.App\GestionFinca.App.Persistencia\obj\Debug\netstandard2.1\GestionFinca.App.Persistencia.AssemblyInfoInputs.cache
+C:\proyectosC#\GestionAgricola\GestionFinca.App\GestionFinca.App.Persistencia\obj\Debug\netstandard2.1\GestionFinca.App.Persistencia.AssemblyInfo.cs
+C:\proyectosC#\GestionAgricola\GestionFinca.App\GestionFinca.App.Persistencia\obj\Debug\netstandard2.1\GestionFinca.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\proyectosC#\GestionAgricola\GestionFinca.App\GestionFinca.App.Persistencia\bin\Debug\netstandard2.1\GestionFinca.App.Persistencia.deps.json
+C:\proyectosC#\GestionAgricola\GestionFinca.App\GestionFinca.App.Persistencia\bin\Debug\netstandard2.1\GestionFinca.App.Persistencia.dll
+C:\proyectosC#\GestionAgricola\GestionFinca.App\GestionFinca.App.Persistencia\bin\Debug\netstandard2.1\GestionFinca.App.Persistencia.pdb
+C:\proyectosC#\GestionAgricola\GestionFinca.App\GestionFinca.App.Persistencia\bin\Debug\netstandard2.1\GestionFinca.App.Dominio.dll
+C:\proyectosC#\GestionAgricola\GestionFinca.App\GestionFinca.App.Persistencia\bin\Debug\netstandard2.1\GestionFinca.App.Dominio.pdb
+C:\proyectosC#\GestionAgricola\GestionFinca.App\GestionFinca.App.Persistencia\obj\Debug\netstandard2.1\GestionFinca.App.Persistencia.csproj.CopyComplete
+C:\proyectosC#\GestionAgricola\GestionFinca.App\GestionFinca.App.Persistencia\obj\Debug\netstandard2.1\GestionFinca.App.Persistencia.dll
+C:\proyectosC#\GestionAgricola\GestionFinca.App\GestionFinca.App.Persistencia\obj\Debug\netstandard2.1\GestionFinca.App.Persistencia.pdb

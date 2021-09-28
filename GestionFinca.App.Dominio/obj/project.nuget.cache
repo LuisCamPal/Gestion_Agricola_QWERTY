@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LoJ2ft5ci+abzmDGCDjwi+/3sfSLBSf5SZZTz/GqZBtUFID6dw0h/ipdJ5jkH5SmP0r4VcxXIHrfffbeDGTgsQ==",
+  "success": true,
+  "projectFilePath": "C:\\proyectosC#\\GestionAgricola\\GestionFinca.App\\GestionFinca.App.Dominio\\GestionFinca.App.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\usuario\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
